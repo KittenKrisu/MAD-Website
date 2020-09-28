@@ -37,7 +37,7 @@ a {
 	text-align: center;
 	padding-top: 15px;
 	margin-bottom: 20px;
-	margin-top: 20px;
+	margin-top: 50px;
 	font-size: 80px;
 }
 #first {
@@ -55,6 +55,10 @@ a {
 #fifth {
 	background-color:#663B83;
 }
+.artIMG {
+	overflow: hidden;
+	height: 250px;
+}
 .hero_header {
 	color: #FFFFFF;
 	text-align: center;
@@ -65,7 +69,7 @@ a {
   background-color: #555;
   position: fixed;
   width: auto;
-  top: 10px;
+  top: 8px;
   left: 10px;
   overflow: hidden;
 	box-shadow: 6px 6px  rgba(0,0,0,0.6);
@@ -141,7 +145,7 @@ a {
 	margin-right: 1%;
 	border-radius: 3px;
 	padding-top: 20px;
-	border-bottom: 4px solid #663B83;
+	border-bottom: 4px solid #5D88E1;
 }
 .gallery .thumbnail h4 {
 	margin-top: 5px;
